@@ -2,7 +2,7 @@ Nishant Velagapudi
 INFO 474
 Data Exploration with D3
 
-URL: http://nishray.github.io/Info474DataExploration/Info474DataExploration/
+URL: http://nishray.github.io/Info474DataExploration/
 
 The purpose of this visualization is to allow users to understand the pricing of treatment of different categories of treatment in different cities. I chose a bar chart to compare the average prices of medical procedures (grouped by diagnosis related group code) in large Washington cities. The bar chart was the best choice in this situation because accuracy in decoding the presented numerical information was important. High level domain specific abstract tasks will likely include comparisons between various cities in terms of prices: thus, using the most accurate elementary perceptual task (comparison along a common scale) allows us to answer these probable questions with optimal accuracy.
 
